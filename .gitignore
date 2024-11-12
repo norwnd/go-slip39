@@ -2,6 +2,7 @@
 .nfs*
 *~
 
+.idea/
 /.env
 /.env.local
 /.netrc
